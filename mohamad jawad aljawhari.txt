@@ -1,0 +1,117 @@
+1.What is Git?
+[] A text editor
+[*] A version control system
+[] An operating system
+[] A programming language
+
+
+2.What is the purpose of Git clone?
+[] To create a new Git repository
+[] To download a copy of an existing Git repository to your local machine
+[] To merge two Git repositories together
+[*] To undo a previous Git commit
+
+
+3.What command is used to stage changes in Git?
+[*] git add
+[] git commit
+[] git push
+[] git clone
+
+
+4.What command is used to commit changes in Git?
+[] git add
+[*] git commit
+[] git push
+[] git clone
+
+
+5.What command is used to send changes to a remote Git repository?
+[] git add
+[] git commit
+[*] git push
+[] git clone
+
+
+6.What command is used to retrieve changes from a remote Git repository?
+[] git add
+[] git commit
+[] git push
+[*] git pull
+
+
+7.What is the purpose of Git merge?
+[] To create a new branch in Git
+[] To delete a branch in Git
+[*] To combine changes from two or more branches in Git
+[] To undo a previous Git commit
+
+
+8.What is a Git branch?
+[] A remote copy of a Git repository
+[*] A copy of a Git repository on your local machine
+[] A new feature or bugfix that is being worked on in isolation from other changes
+[] A tag that marks a specific point in Git history
+
+
+9.What command is used to create a new Git branch?
+[*] git branch
+[] git merge
+[] git checkout
+[] git clone
+
+
+10.What command is used to switch to a different Git branch?
+[] git branch
+[] git merge
+[*] git checkout
+[] git clone
+
+
+11.What command is used to view the Git commit history?
+[*] git log
+[] git status
+[] git diff
+[] git blame
+
+
+12.What command is used to revert a Git commit?
+[] git reset
+[*] git revert
+[] git checkout
+[] git commit
+
+
+13.What is the purpose of Git remote?
+[*] To create a new Git repository
+[] To download a copy of an existing Git repository to your local machine
+[] To send changes to a remote Git repository
+[] To manage remote connections to other Git repositories
+
+
+14.What command is used to list Git remote connections?
+[] git remote add
+[*] git remote list
+[] git remote show
+[] git remote rename
+
+
+15.What is the purpose of Git tag?
+[] To create a new branch in Git
+[] To delete a branch in Git
+[*] To mark a specific point in Git history with a label
+[] To combine changes from two or more branches in Git
+
+
+16.What command is used to create a Git tag?
+[*] git tag
+[] git branch
+[] git merge
+[] git checkout
+
+
+17.What is the purpose of Git pull?
+[] To create a new branch in Git
+[] To delete a branch in Git
+[*] To retrieve changes from a remote Git repository and merge them with the local branch
+[] To send changes to a remote Git repository
